@@ -7,7 +7,7 @@ url: "https://mkdebpack.github.io" # the base hostname & protocol for your site 
 # User settings
 username: mkdebpack
 user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
+user_title: Make .deb packages
 email: mkdebpack@gmail.com
 twitter_username: mkdebpack
 github_username:  mkdebpack
