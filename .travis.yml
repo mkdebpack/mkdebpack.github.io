@@ -9,7 +9,7 @@ node_js:
   - node
 services:
   - redis
-install:
+before_install:
   - npm install --global gulp-cli
 script:
   - gulp
