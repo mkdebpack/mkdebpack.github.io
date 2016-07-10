@@ -10,7 +10,10 @@ node_js:
 services:
   - redis
 before_install:
+  - node -v
+  - npm -v
   - npm install --global gulp-cli
+  - npm install
 script:
   - gulp
   - bundle exec jekyll build
