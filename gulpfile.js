@@ -94,4 +94,4 @@ gulp.task('watch', function () {
  * Default task, running just `gulp` will compile the stylus,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
-gulp.task('default', ['js', 'stylus', 'jekyll-build']);
+gulp.task('default', ['js', 'stylus', 'imagemin']);
