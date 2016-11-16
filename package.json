@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "autoprefixer-stylus": "^0.9.4",
-    "browser-sync": "^2.13.0",
+    "browser-sync": "^2.18.1",
     "grunt": "^1.0.1",
     "gulp": "^3.8.10",
     "gulp-cache": "^0.4.5",
