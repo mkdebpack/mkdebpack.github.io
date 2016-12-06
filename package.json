@@ -41,7 +41,7 @@
     "gulp-stylus": "^2.5.0",
     "gulp-uglify": "^2.0.0",
     "jeet": "^6.1.2",
-    "kouto-swiss": "^0.12.0",
+    "kouto-swiss": "^0.14.0",
     "minimist": "^1.2.0",
     "rupture": "^0.6.1"
   }
